@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @EnzoRechner
-- 👀 I’m interested in Learning things especially code
-- 🌱 I’m currently learning C# and whatever language i might find interesting
-- 💞️ I’m looking to collaborate on any project really as long as theres something to learn from it
-- 📫 How to reach me send me a message on a post :)
+Software Engineer
+I'm in love with my C family
+Microslop (unpaid)shill
